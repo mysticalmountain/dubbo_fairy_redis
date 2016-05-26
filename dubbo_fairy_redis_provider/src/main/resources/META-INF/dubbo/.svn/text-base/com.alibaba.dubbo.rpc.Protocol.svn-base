@@ -1,0 +1,2 @@
+dubbo=com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol
+injvm=com.alibaba.dubbo.rpc.protocol.injvm.InjvmProtocol

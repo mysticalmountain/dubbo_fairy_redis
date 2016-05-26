@@ -1,0 +1,32 @@
+[
+  {
+    "code": "PB",
+    "desc": "个人网银前端系统",
+    "database": "0"
+  },
+  {
+    "code": "MB",
+    "desc": "WAP手机银行",
+    "database": "1"
+  },
+  {
+    "code": "CS",
+    "desc": "客户端手机银行",
+    "database": "2"
+  },
+  {
+    "code": "WX",
+    "desc": "微信银行",
+    "database": "3"
+  },
+  {
+    "code": "IM",
+    "desc": "内管",
+    "database": "4"
+  },
+  {
+    "code": "PP",
+    "desc": "电子支付",
+    "database": "5"
+  }
+]
